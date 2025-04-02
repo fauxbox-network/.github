@@ -13,7 +13,7 @@ This project is heavily inspired by Pretendo, Insignia, and various other reviva
 
 ## Meet the Team
 <div>
-<img align="left" src="https://avatars.githubusercontent.com/u/94766654?v=4">
+<img align="left" src="https://avatars.githubusercontent.com/u/94766654?s=70">
 
 ##### [CHEESEDEV](https://github.com/callendv)
 
