@@ -19,6 +19,7 @@ This project is heavily inspired by Pretendo, Insignia, and various other reviva
 
 Owner & Lead Dev
 
+
 <img align="left" src="https://avatars.githubusercontent.com/u/71360210?s=70">
 
 ##### [CLAY](https://github.com/claytontdm)
