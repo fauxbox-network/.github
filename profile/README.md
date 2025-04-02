@@ -12,18 +12,15 @@ Fauxbox is currently in limbo, as we are waiting for until all of the original X
 This project is heavily inspired by Pretendo, Insignia, and various other revival services.
 
 ## Meet the Team
-<div>
+
 <img align="left" src="https://avatars.githubusercontent.com/u/94766654?s=70">
 
 ##### [CHEESEDEV](https://github.com/callendv)
 
 Owner & Lead Dev
-</div>
 
-<div>
 <img align="left" src="https://avatars.githubusercontent.com/u/71360210?s=70">
 
 ##### [CLAY](https://github.com/claytontdm)
 
 Lead Dev
-</div>
