@@ -24,3 +24,17 @@ Owner & Lead Dev
 ##### [CLAY](https://github.com/claytontdm)
 
 Lead Dev
+
+<img align="left" src="https://avatars.githubusercontent.com/u/110255725?s=70">
+
+##### [HAMHIM](https://github.com/hamhimdev)
+
+Developer
+
+### Testers
+
+<img align="left" src="https://avatars.githubusercontent.com/u/79881161?s=70">
+
+##### [xytrux](https://github.com/xytrux)
+
+Lead Tester
